@@ -3,6 +3,7 @@
 </p>
 
 
+
 <p align='center'>
 	<a href=""https://www.linkedin.com/in/iambenzaid/"><img src="https://img.shields.io/badge/-iambenzaid-blue?style=flat square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/"></a>&nbsp;&nbsp;
 	<a href="https://twitter.com/iambenzaid/"><img src="https://img.shields.io/twitter/follow/iambenzaid?style=social"></a>&nbsp;&nbsp;
@@ -13,11 +14,23 @@
 
 
 
-
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,aws,git,github,c,cpp,java,gradle,postgres" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,vscode,idea,visualstudio,vim,bash,postman" />
 </div>
+
+
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoyaGk2b3dzNjB3eGY3ZDY1ODc3djExb3h5ZzFrOGQwZ3Vsa3F6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LFWp5iZzSAdU8arl7h/giphy.gif" width="50"> Diving Deeper into My Background...
+
+```javascript
+const ben = {
+  code: ["Javascript", "Java", "C++", "HTML", "CSS", "Postegres"],
+  tools: ["React", "Tailwind", "Gradle", "Git", "AWS", "Vim", "Bash"],
+  architecture: ["microservices Learnen", "design system pattern"],
+};
+ challenge: "I am starting the Alx software engineering program."
+}
+```
