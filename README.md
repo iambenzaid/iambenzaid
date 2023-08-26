@@ -3,7 +3,8 @@
 </p>
 
 
-
+<h2 align="center">🤝Let's connect and inspire each other!🤝</h2>
+<br/>
 <p align='center'>
 	<a href=""https://www.linkedin.com/in/iambenzaid/"><img src="https://img.shields.io/badge/-iambenzaid-blue?style=flat square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/"></a>&nbsp;&nbsp;
 	<a href="https://twitter.com/iambenzaid/"><img src="https://img.shields.io/twitter/follow/iambenzaid?style=social"></a>&nbsp;&nbsp;
