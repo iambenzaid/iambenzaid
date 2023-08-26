@@ -29,10 +29,10 @@
 
 ```javascript
 const ben = {
-  code: ["Javascript", "Java", "C++", "HTML", "CSS", "Postegres"],
+  code: ["Javascript", "Java", "C++", "HTML", "CSS", "PostgreSQL"],
   tools: ["React", "Tailwind", "Gradle", "Git", "AWS", "Vim", "Bash"],
-  architecture: ["microservices Learnen", "design system pattern"],
+  architecture: ["Microservices Learnen", "design system pattern"],
 };
- challenge: "I am starting the Alx software engineering program."
+ Challenge: "I am starting the Alx software engineering program."
 }
 ```
