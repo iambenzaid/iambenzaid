@@ -21,8 +21,11 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,aws,git,github,c,cpp,java,gradle,postgres" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,vscode,idea,visualstudio,vim,bash,postman" />
+</div><br/>
+</br>
+<div align="center">
+	<img src="https://github.com/iambenzaid/iambenzaid/assets/61099744/49a44640-93cd-4f8b-aa98-8edab7434a9e" />
 </div>
-
 
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXoyaGk2b3dzNjB3eGY3ZDY1ODc3djExb3h5ZzFrOGQwZ3Vsa3F6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LFWp5iZzSAdU8arl7h/giphy.gif" width="50"> Diving Deeper into My Background...
