@@ -6,10 +6,9 @@
 <h2 align="center">🤝Let's connect and inspire each other!🤝</h2>
 <br/>
 <p align='center'>
-	<a href="https://www.linkedin.com/in/iambenzaid/"><img src="https://img.shields.io/badge/-iambenzaid-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/iambenzaid/" alt="Linkedin: anmol"></a>&nbsp;&nbsp;
+	<a href="https://www.linkedin.com/in/iambenzaid/"><img src="https://img.shields.io/badge/-iambenzaid-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin: anmol"></a>&nbsp;&nbsp;
 	<a href="https://twitter.com/iambenzaid/"><img src="https://img.shields.io/twitter/follow/iambenzaid?style=social"></a>&nbsp;&nbsp;
-	<a href="https://instagram.com/iambenzaid/"><img src="[https://img.shields.io/badge/-iambenzaid-E4405F?style=flat square&logo=instagram&logoColor=white&link=https://www.instagram.com/iambenzaid](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Finstagram.com%2Fiambenzaid%2F&style=flat-square&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fiambenzaid
-)"></a>&nbsp;&nbsp;
+	<a href="https://instagram.com/iambenzaid/"><img src="https://img.shields.io/badge/-iambenzaid-E4405F?style=flat&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
 	<a href="https://github.com/iambenzaid/"><img src="https://img.shields.io/github/followers/iambenzaid?label=follow&style=social"></a>&nbsp;&nbsp;
         <a href="https://visitor-badge.laobi.icu/badge?page_id=iambenzaid.alx-pre_course"><img src="https://visitor-badge.laobi.icu/badge?page_id=iambenzaid.alx-pre_course" alt="visitor badge"/>
 </p> 
